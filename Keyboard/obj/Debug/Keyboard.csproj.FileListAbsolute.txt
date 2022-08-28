@@ -1,0 +1,34 @@
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\bin\Debug\Keyboard.exe.config
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\bin\Debug\Keyboard.exe
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\Keyboard.csproj.AssemblyReference.cache
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\Keyboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\MainWindow.g.cs
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\App.g.cs
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\Keyboard_MarkupCompile.cache
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\Keyboard_MarkupCompile.lref
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\MainWindow.baml
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\Resources\DictionaryStyle.baml
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\Keyboard.g.resources
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\Keyboard.Properties.Resources.resources
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\Keyboard.csproj.GenerateResource.cache
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\Keyboard.exe
+C:\Users\Misha\Downloads\WPF4_Keyboard-master\WPF4_Keyboard-master\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\bin\Debug\Keyboard.exe.config
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\bin\Debug\Keyboard.exe
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\Keyboard.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\Keyboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\MainWindow.g.cs
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\App.g.cs
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\Keyboard_MarkupCompile.cache
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\Keyboard_MarkupCompile.lref
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\MainWindow.baml
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\Resources\DictionaryStyle.baml
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\Keyboard.g.resources
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\Keyboard.Properties.Resources.resources
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\Keyboard.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\Keyboard.exe
+C:\Users\Misha\source\repos\Virtual Keyboard\Keyboard\obj\Debug\Keyboard.pdb
